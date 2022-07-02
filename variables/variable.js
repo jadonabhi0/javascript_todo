@@ -15,8 +15,18 @@ console.log("hello world");
 // A variable name cannot start with a digit 0-9.
 // A variable name cannot be a reserved keyword in JavaScript, e.g. var, function, return cannot be variable names.
 
+// declare variables
 var name = "abhishek jadon";
+var name = "aman"
 console.log(name);
+
+let fname = "Aman";
+
+// declare constant  || values can' be changed
+
+const pi = 3.14;
+
+console.log(pi);
 
 
 
