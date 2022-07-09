@@ -17,6 +17,7 @@ while(i <= 10){
     sum += i;
     i++;
 }
+
 console.log(sum);
 
 // 2-->
