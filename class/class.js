@@ -53,6 +53,7 @@ class Animal{
     isCute(){
         return true;
     }
+    
 }
 
 
