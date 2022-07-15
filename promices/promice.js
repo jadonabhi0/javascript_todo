@@ -16,6 +16,7 @@ const friedRicePromise = new Promise((resolve, reject)=>{
 
 // consume promise
 
+
 // how to consume
 
 friedRicePromise.then((myFriedRice)=>{
