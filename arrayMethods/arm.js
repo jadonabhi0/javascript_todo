@@ -9,6 +9,9 @@ function multiplyBy2(number,index){
     console.log();
 }
 
+
+
+
 // for each method
 number.forEach(multiplyBy2);
 
