@@ -10,8 +10,6 @@ function multiplyBy2(number,index){
 }
 
 
-
-
 // for each method
 number.forEach(multiplyBy2);
 
