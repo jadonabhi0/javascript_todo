@@ -1,6 +1,4 @@
 console.log("Hari bol");
-
-
 // select element by get element by id
 
 const mainHeading = document.getElementById("main-heading");
