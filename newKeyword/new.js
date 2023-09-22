@@ -7,6 +7,7 @@ function createUser(firstName, age){
     this.age = age;
 }
 
+
 createUser.prototype.about = function(){
     console.log(this.firstName,this.age);
 }
