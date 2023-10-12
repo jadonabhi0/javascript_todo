@@ -1,5 +1,4 @@
 
-
 // select element by using query selector
 
 const mainHeading = document.querySelector("#main-heading");
