@@ -1,5 +1,4 @@
 
-
 console.log("script start");
 
 // promise is the feature of browser
