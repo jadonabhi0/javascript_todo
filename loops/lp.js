@@ -1,6 +1,6 @@
 console.log("Hare Krishna");
 
-// loops
+
 
 // while loop
 var i = 0; 
