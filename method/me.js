@@ -8,6 +8,8 @@ const person = {
     age  : 21,
     about : function(){console.log(`person name is ${this.firstName} and person age is ${this.age}`)},
     address : () => {console.log("Vill and post  Amour Nagla Jeevan")}
+
+    
 }
 
 person.about();
