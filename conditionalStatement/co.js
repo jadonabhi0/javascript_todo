@@ -8,6 +8,7 @@ if(age >= 18){
     console.log("wait for some time");
 }
 
+
 // even or odd
 let num = 34;
 if(num%2 == 0){
