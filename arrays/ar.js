@@ -2,8 +2,6 @@ console.log("Hare Krishna");
 
 // INTRODUCTION TO ARRAYS
 
-
-
 // ---> ordered collection of element
 // ---> arrays are of reference (object) type in js
 console.log("------------------------------------");
