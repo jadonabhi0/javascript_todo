@@ -9,6 +9,8 @@ class CreateUser{
         this.address = address;
     }
 
+
+    
     
     about(){
         return `${this.firstName} is ${this.age} years old`;
