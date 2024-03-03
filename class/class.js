@@ -8,8 +8,6 @@ class CreateUser{
         this.age = age;
         this.address = address;
     }
-
-
     
     
     about(){
