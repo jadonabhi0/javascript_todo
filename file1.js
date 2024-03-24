@@ -1,3 +1,3 @@
-console.log("Hari bol");
+console.log("Jai shree Mahkal");
 
 
