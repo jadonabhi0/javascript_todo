@@ -2,8 +2,6 @@
 
 const btn = document.querySelector(".btn-headline");
 console.log(btn)
-
-
 // not a good way
 // btn.onclick = function(){
 //     console.log("You clicked me !!")
