@@ -9,6 +9,8 @@ const person = {
     age : 18,
     hobbies : "driving"
     };
+
+
 console.log(person, typeof person);
 
 // data accessing for object;
