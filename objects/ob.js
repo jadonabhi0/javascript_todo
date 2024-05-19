@@ -11,6 +11,8 @@ const person = {
     };
 
 
+
+
 console.log(person, typeof person);
 
 // data accessing for object;
